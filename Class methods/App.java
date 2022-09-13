@@ -78,4 +78,8 @@ static int divide(int x, int y) {
     int z = x / y;
     return z;
 }
+    static boolean equal(int x, int y) {
+boolean equal = x == y;
+    return equal;
+}
 }
